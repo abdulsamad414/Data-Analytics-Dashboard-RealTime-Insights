@@ -1,4 +1,4 @@
-# Data Analytics Dashboard – Sunrise Hotels
+# Data Analytics Dashboard Sunrise Hotels
 
 This is our group project for building a data dashboard for Sunrise Hotels.  
 The idea is to bring data from different hotel systems into one place so managers can see what is happening in real time.
